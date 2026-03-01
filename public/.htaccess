@@ -24,4 +24,3 @@
     RewriteRule ^ index.php [L]
 </IfModule>
 
-// this is only for testing purpose
