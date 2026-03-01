@@ -173,6 +173,12 @@
 
     <div class="chat-container">
 
+
+
+
+
+
+
         <div class="chat-status" id="chatStatus">
             Looking for someone you can chat with...
         </div>
