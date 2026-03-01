@@ -12,3 +12,6 @@ Route::Post('/register-user', [AuthController::class, 'create'])->name('register
 // Route::get('/user', function (Request $request) {
 //     return $request->user();
 // })->middleware('auth:sanctum');
+
+// this is my master branch
+
